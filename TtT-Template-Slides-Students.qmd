@@ -1,0 +1,283 @@
+---
+title: "Title of Submodule"
+author: "Author"
+date: "today"
+date-format: "DD/MM/YYYY"
+format: 
+  revealjs:
+    css: custom.css
+    footer: LMU Open Science Center
+    slide-number: true
+    logo: images/OSC_Logo.jpg  # This line inserts logo in the bottom corner by default
+    includes:
+      in-header: header.html
+---
+
+## Questions from previous submodule
+
+- This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss homework assignments. 
+- Additional slides may need to be added depending on the nature of the homework assignments. 
+- This is a critical step in the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshops. 
+- Not applicable if this set of slides corresponds to the first submodule of a new module. 
+
+---
+
+## Before we start: Survey time!
+
+- This pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
+- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+
+---
+
+**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+
+a. I have never heard of it before.
+
+b. I have heard of it but have never worked with it.
+
+c. I have basic understanding and experience with it.
+
+d. I am very familiar and have worked with it extensively.
+
+---
+
+**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
+
+a. Concept 1
+
+b. Concept 2
+
+c. Concept 3
+
+d. Concept 4
+
+e. I am not sure about any of these concepts.
+
+---
+
+**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
+(1 = Not comfortable at all, 5 = Very comfortable)**
+
+a. 1
+
+b. 2
+
+c. 3
+
+d. 4
+
+e. 5
+
+---
+
+## Discussion of survey results
+
+- Briefly examine the answers given to each question interactively with the group.
+- Make it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress. 
+
+---
+
+## Where are we at?
+
+- Place the topic of the current submodule within a broader context.
+- Remind students what you are working towards, if applicable.
+
+---
+
+## Learning goals
+
+- Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (REF)
+- Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
+- Example: 
+  - Students will **describe** the process of photosynthesis or
+  - Students will **construct** a diagram illustrating the process of photosynthesis
+
+---
+
+## Key terms and definitions
+
+- **Key Term 1**: Definition
+- **Key Term 2**: Definition
+- **Key Term 3**: Definition
+
+::: {.notes}
+Base yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson. 
+:::
+
+---
+
+## Introduction of submodule topic
+
+- Core theoretical introduction of submodule topic
+- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (REF)
+- Use multiple slides for this part
+
+::: {.notes}
+For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)
+:::
+---
+
+## Submodule content slide
+
+- Highlight particularly important aspects with Quarto call-out boxes, for example: 
+
+::: {.callout-important}
+## Important with Title
+
+This is an example of a callout box to highlight particularly important information.
+:::
+
+---
+
+## Pre-break survey
+
+- This pre-break survey serves to examine students' current understanding of key concepts of the submodule
+- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+---
+
+**What is the primary function of photosynthesis?**
+a. To release oxygen into the atmosphere
+
+b. To convert light energy into chemical energy
+
+c. To produce carbon dioxide for the plant
+
+d. To break down glucose for energy
+
+---
+
+**Which of the following is a key ingredient required for photosynthesis?**
+a. Oxygen
+
+b. Water
+
+c. Nitrogen
+
+d. Chlorophyll
+
+---
+
+# Break! 15 minutes
+
+---
+
+## (if needed) Post-break survey discussion
+
+- Highlight specific answers given during the survey
+- Serves to clarify concepts and key terms.
+
+---
+
+## Practical exercises on topic
+
+- Depending on the topic, this section of the lesson should consist of hands-on exercises to get familiar with and apply the skill(s) in accordance with the learning goal(s).
+
+::: {.notes}
+For students who advance faster: Prepare extra exercises. 
+:::
+
+---
+
+## Relevance and implications
+
+- In an interactive setting, discuss the relevance of the submodule topic/skills to your students
+- Discuss how it could be applied in practise with specific examples
+- Examine downfalls and practical obstacles.
+
+::: {.callout-tip}
+## Tip with Title
+
+This is an example of a callout with a title for practical tips or take-home messages.
+:::
+
+---
+
+## Assignment
+
+- Explain the homework assignment and the rationale behind the homework
+- Examine whether/how it will be assessed, and mention scoring rubrics if applicable
+
+---
+
+## To conclude: Survey time!
+
+- This pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
+- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+
+---
+
+**What is your level of familiarity with [Topic] (e.g., basic concepts, terminology, or tools)?**
+
+a. I have never heard of it before.
+
+b. I have heard of it but have never worked with it.
+
+c. I have basic understanding and experience with it.
+
+d. I am very familiar and have worked with it extensively.
+
+---
+
+**Which of the following concepts or skills do you feel most confident about in relation to [Topic]? (Select all that apply)**
+
+a. Concept 1
+
+b. Concept 2
+
+c. Concept 3
+
+d. Concept 4
+
+e. I am not sure about any of these concepts.
+
+---
+
+**On a scale of 1 to 5, how comfortable are you with using [specific tool/technology] related to [Topic]?
+(1 = Not comfortable at all, 5 = Very comfortable)**
+
+a. 1
+
+b. 2
+
+c. 3
+
+d. 4
+
+e. 5
+
+---
+
+## Discussion of survey results
+
+- Briefly examine the answers given to each question interactively with the group.
+- Compare pre- and post-survey answers
+
+---
+
+## References
+
+- Provide literature you refer to throughout this lesson.
+
+---
+
+# Thanks! <br>
+See you next class :)
+
+---
+
+## Pedagogical add-on tools for instructors
+
+- This section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:
+  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy
+  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content
+  - Extra exercises for faster students	
+
+---
+
+## Additional literature for instructors
+
+- References for content
+- References for pedagogical add-on tools	
+- Other resources (videos etc.)	
+
+---
