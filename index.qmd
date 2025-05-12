@@ -15,7 +15,7 @@ format:
 
 ## Questions from previous submodule
 
-- This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss homework assignments. 
+- This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
 - Additional slides may need to be added depending on the nature of the homework assignments. 
 - This is a critical step in the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshops. 
 - Not applicable if this set of slides corresponds to the first submodule of a new module. 
@@ -268,9 +268,9 @@ See you next class :)
 ## Pedagogical add-on tools for instructors
 
 - This section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:
-  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy
-  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content
-  - Extra exercises for faster students	
+  - Information about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy.
+  - Discussion/reflection on how tools can be incorporated into the teaching for this particular content.
+  - Extra exercises for faster students.	
 
 ---
 
