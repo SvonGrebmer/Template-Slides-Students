@@ -48,6 +48,13 @@
   font-size: inherit;            /* Forces li text to match parent font size exactly */
 }
 
+/* Ensure bolded text is both bold and dark blue */
+.reveal strong,
+.reveal b {
+  color: darkblue;        /* Set text color */
+  font-weight: bold;      /* Ensure bold styling is applied */
+}
+
 /* Extra previous test css code to play around with */
 
 /* Styling for headers (h1, h2, h3, h4) on all slides except the title slide 
