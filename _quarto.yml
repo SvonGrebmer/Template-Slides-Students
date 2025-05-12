@@ -11,7 +11,7 @@ format:
     toc: false
 
 website:
-  title: "TtT Template Slides Students"
+  title: "Template-Slides-Students"
   navbar:
     left:
       - href: index.qmd
