@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages expects this folder (unless using gh-pages branch)
+
+format:
+  html:
+    toc: true             # Optional: table of contents for HTML pages
+  revealjs:
+    theme: default        # You can customize this
+    slide-number: true    # Optional: show slide numbers
+    toc: false
+
+website:
+  title: "TtT Template Slides Students"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: slides.qmd
+        text: Slides
+
+# Ensure all outputs go into the docs/ folder
+execute:
+  freeze: auto            # Recommended for reproducibility
