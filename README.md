@@ -13,3 +13,4 @@ project:
 4. Render locally
 5. Stage and commit locally
 6. Push to remote repository
+7. To access the corresponding GitHub pages, set repository to public
