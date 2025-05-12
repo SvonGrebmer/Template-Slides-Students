@@ -1,126 +1,126 @@
 [
   {
-    "objectID": "Template-Slides-Students.html#questions-from-previous-submodule",
-    "href": "Template-Slides-Students.html#questions-from-previous-submodule",
+    "objectID": "index.html#questions-from-previous-submodule",
+    "href": "index.html#questions-from-previous-submodule",
     "title": "Title of Submodule",
     "section": "Questions from previous submodule",
     "text": "Questions from previous submodule\n\nThis first slide is dedicated to clarifying questions from the previous submodule and/or to discuss homework assignments.\nAdditional slides may need to be added depending on the nature of the homework assignments.\nThis is a critical step in the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshops.\nNot applicable if this set of slides corresponds to the first submodule of a new module."
   },
   {
-    "objectID": "Template-Slides-Students.html#before-we-start-survey-time",
-    "href": "Template-Slides-Students.html#before-we-start-survey-time",
+    "objectID": "index.html#before-we-start-survey-time",
+    "href": "index.html#before-we-start-survey-time",
     "title": "Title of Submodule",
     "section": "Before we start: Survey time!",
     "text": "Before we start: Survey time!\n\nThis pre-submodule survey serves to examine students’ prior knowledge about the sumodule’s topic.\nUse free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "Template-Slides-Students.html#discussion-of-survey-results",
-    "href": "Template-Slides-Students.html#discussion-of-survey-results",
+    "objectID": "index.html#discussion-of-survey-results",
+    "href": "index.html#discussion-of-survey-results",
     "title": "Title of Submodule",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nBriefly examine the answers given to each question interactively with the group.\nMake it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress."
   },
   {
-    "objectID": "Template-Slides-Students.html#where-are-we-at",
-    "href": "Template-Slides-Students.html#where-are-we-at",
+    "objectID": "index.html#where-are-we-at",
+    "href": "index.html#where-are-we-at",
     "title": "Title of Submodule",
     "section": "Where are we at?",
     "text": "Where are we at?\n\nPlace the topic of the current submodule within a broader context.\nRemind students what you are working towards, if applicable."
   },
   {
-    "objectID": "Template-Slides-Students.html#learning-goals",
-    "href": "Template-Slides-Students.html#learning-goals",
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
     "title": "Title of Submodule",
     "section": "Learning goals",
     "text": "Learning goals\n\nFormulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom’s taxonomy (REF)\nPlace an emphasis on the verbs of the learning goals and choose verbs that align with the skills you want to develop or assess.\nExample:\n\nStudents will describe the process of photosynthesis or\nStudents will construct a diagram illustrating the process of photosynthesis"
   },
   {
-    "objectID": "Template-Slides-Students.html#key-terms-and-definitions",
-    "href": "Template-Slides-Students.html#key-terms-and-definitions",
+    "objectID": "index.html#key-terms-and-definitions",
+    "href": "index.html#key-terms-and-definitions",
     "title": "Title of Submodule",
     "section": "Key terms and definitions",
     "text": "Key terms and definitions\n\nKey Term 1: Definition\nKey Term 2: Definition\nKey Term 3: Definition\n\n\nBase yourself on conceptual change theory and examine exisiting concepts in relation to some key terms. Re-examine formation of new concepts at the end of the lesson."
   },
   {
-    "objectID": "Template-Slides-Students.html#introduction-of-submodule-topic",
-    "href": "Template-Slides-Students.html#introduction-of-submodule-topic",
+    "objectID": "index.html#introduction-of-submodule-topic",
+    "href": "index.html#introduction-of-submodule-topic",
     "title": "Title of Submodule",
     "section": "Introduction of submodule topic",
     "text": "Introduction of submodule topic\n\nCore theoretical introduction of submodule topic\nPair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (REF)\nUse multiple slides for this part\n\n\nFor a 90-minute lesson, the instructor should try to “lecture” for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)"
   },
   {
-    "objectID": "Template-Slides-Students.html#submodule-content-slide",
-    "href": "Template-Slides-Students.html#submodule-content-slide",
+    "objectID": "index.html#submodule-content-slide",
+    "href": "index.html#submodule-content-slide",
     "title": "Title of Submodule",
     "section": "Submodule content slide",
     "text": "Submodule content slide\n\nHighlight particularly important aspects with Quarto call-out boxes, for example:\n\n\n\n\n\n\n\nImportant with Title\n\n\nThis is an example of a callout box to highlight particularly important information."
   },
   {
-    "objectID": "Template-Slides-Students.html#pre-break-survey",
-    "href": "Template-Slides-Students.html#pre-break-survey",
+    "objectID": "index.html#pre-break-survey",
+    "href": "index.html#pre-break-survey",
     "title": "Title of Submodule",
     "section": "Pre-break survey",
     "text": "Pre-break survey\n\nThis pre-break survey serves to examine students’ current understanding of key concepts of the submodule\nUse free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "Template-Slides-Students.html#if-needed-post-break-survey-discussion",
-    "href": "Template-Slides-Students.html#if-needed-post-break-survey-discussion",
+    "objectID": "index.html#if-needed-post-break-survey-discussion",
+    "href": "index.html#if-needed-post-break-survey-discussion",
     "title": "Title of Submodule",
     "section": "(if needed) Post-break survey discussion",
     "text": "(if needed) Post-break survey discussion\n\nHighlight specific answers given during the survey\nServes to clarify concepts and key terms."
   },
   {
-    "objectID": "Template-Slides-Students.html#practical-exercises-on-topic",
-    "href": "Template-Slides-Students.html#practical-exercises-on-topic",
+    "objectID": "index.html#practical-exercises-on-topic",
+    "href": "index.html#practical-exercises-on-topic",
     "title": "Title of Submodule",
     "section": "Practical exercises on topic",
     "text": "Practical exercises on topic\n\nDepending on the topic, this section of the lesson should consist of hands-on exercises to get familiar with and apply the skill(s) in accordance with the learning goal(s).\n\n\nFor students who advance faster: Prepare extra exercises."
   },
   {
-    "objectID": "Template-Slides-Students.html#relevance-and-implications",
-    "href": "Template-Slides-Students.html#relevance-and-implications",
+    "objectID": "index.html#relevance-and-implications",
+    "href": "index.html#relevance-and-implications",
     "title": "Title of Submodule",
     "section": "Relevance and implications",
     "text": "Relevance and implications\n\nIn an interactive setting, discuss the relevance of the submodule topic/skills to your students\nDiscuss how it could be applied in practise with specific examples\nExamine downfalls and practical obstacles.\n\n\n\n\n\n\n\nTip with Title\n\n\nThis is an example of a callout with a title for practical tips or take-home messages."
   },
   {
-    "objectID": "Template-Slides-Students.html#assignment",
-    "href": "Template-Slides-Students.html#assignment",
+    "objectID": "index.html#assignment",
+    "href": "index.html#assignment",
     "title": "Title of Submodule",
     "section": "Assignment",
     "text": "Assignment\n\nExplain the homework assignment and the rationale behind the homework\nExamine whether/how it will be assessed, and mention scoring rubrics if applicable"
   },
   {
-    "objectID": "Template-Slides-Students.html#to-conclude-survey-time",
-    "href": "Template-Slides-Students.html#to-conclude-survey-time",
+    "objectID": "index.html#to-conclude-survey-time",
+    "href": "index.html#to-conclude-survey-time",
     "title": "Title of Submodule",
     "section": "To conclude: Survey time!",
     "text": "To conclude: Survey time!\n\nThis pre-submodule survey serves to examine students’ prior knowledge about the sumodule’s topic.\nUse free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):"
   },
   {
-    "objectID": "Template-Slides-Students.html#discussion-of-survey-results-1",
-    "href": "Template-Slides-Students.html#discussion-of-survey-results-1",
+    "objectID": "index.html#discussion-of-survey-results-1",
+    "href": "index.html#discussion-of-survey-results-1",
     "title": "Title of Submodule",
     "section": "Discussion of survey results",
     "text": "Discussion of survey results\n\nBriefly examine the answers given to each question interactively with the group.\nCompare pre- and post-survey answers"
   },
   {
-    "objectID": "Template-Slides-Students.html#references",
-    "href": "Template-Slides-Students.html#references",
+    "objectID": "index.html#references",
+    "href": "index.html#references",
     "title": "Title of Submodule",
     "section": "References",
     "text": "References\n\nProvide literature you refer to throughout this lesson."
   },
   {
-    "objectID": "Template-Slides-Students.html#pedagogical-add-on-tools-for-instructors",
-    "href": "Template-Slides-Students.html#pedagogical-add-on-tools-for-instructors",
+    "objectID": "index.html#pedagogical-add-on-tools-for-instructors",
+    "href": "index.html#pedagogical-add-on-tools-for-instructors",
     "title": "Title of Submodule",
     "section": "Pedagogical add-on tools for instructors",
     "text": "Pedagogical add-on tools for instructors\n\nThis section is dedicated to ideas on how to incorporate pedagogical tools into teaching for this specific submodule topic. This could mean:\n\nInformation about the scientific evidence on the theory of the pedagogical add-on tool and the evidence for its efficacy\nDiscussion/reflection on how tools can be incorporated into the teaching for this particular content\nExtra exercises for faster students"
   },
   {
-    "objectID": "Template-Slides-Students.html#additional-literature-for-instructors",
-    "href": "Template-Slides-Students.html#additional-literature-for-instructors",
+    "objectID": "index.html#additional-literature-for-instructors",
+    "href": "index.html#additional-literature-for-instructors",
     "title": "Title of Submodule",
     "section": "Additional literature for instructors",
     "text": "Additional literature for instructors\n\nReferences for content\nReferences for pedagogical add-on tools\n\nOther resources (videos etc.)"
