@@ -136,6 +136,7 @@ This is an example of a callout box to highlight particularly important informat
 ---
 
 **What is the primary function of photosynthesis?**
+
 a. To release oxygen into the atmosphere
 
 b. To convert light energy into chemical energy
@@ -147,6 +148,7 @@ d. To break down glucose for energy
 ---
 
 **Which of the following is a key ingredient required for photosynthesis?**
+
 a. Oxygen
 
 b. Water
