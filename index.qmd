@@ -8,24 +8,24 @@ format:
     css: custom.css
     footer: LMU Open Science Center
     slide-number: true
-    logo: images/OSC_Logo.jpg  # This line inserts logo in the bottom corner by default
+    logo: images/OSC_Logo.jpg  # Inserts logo in the bottom right corner by default
     includes:
       in-header: header.html
 ---
 
 ## Questions from previous submodule
 
-- This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
+- **Aim**:  This first slide is dedicated to clarifying questions from the previous submodule and/or to discuss assignments. 
 - Additional slides may need to be added depending on the nature of the homework assignments. 
-- This is a critical step in the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshops. 
+- Critical for the learning process to ensure that students are on the same page and have been able to achieve the learning goals of the previous workshop. 
 - Not applicable if this set of slides corresponds to the first submodule of a new module. 
 
 ---
 
 ## Before we start: Survey time!
 
-- This pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
-- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+- **Aim**: The pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
+- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
 
 ---
 
@@ -72,29 +72,37 @@ e. 5
 
 ## Discussion of survey results
 
-- Briefly examine the answers given to each question interactively with the group.
-- Make it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress. 
+- **Aim"**: Briefly examine the answers given to each question interactively with the group.
+- Use visuals from the survey to highlight specific answers.
+
+::: {.notes}
+Make it clear to the group that there will be a similar post-submodule survey to examine understanding and learning progress.
+:::
 
 ---
 
 ## Where are we at?
 
-- Place the topic of the current submodule within a broader context.
-- Remind students what you are working towards, if applicable.
+- **Aim**: Place the topic of the current submodule within a broader context.
+- Remind students what you are working towards and what the biggeer picture is.
 
 ---
 
 ## Learning goals
 
-- Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (REF)
+- **Aim**: Formulate specific, action-oriented goals learning goals which are measurable and observable in line with Bloom's taxonomy (Anderson et al., 2001; Bloom et al., 1956)
+
 - Place an emphasis on the **verbs** of the learning goals and choose verbs that align with the skills you want to develop or assess.
-- Example: 
+- Examples: 
   - Students will **describe** the process of photosynthesis or
   - Students will **construct** a diagram illustrating the process of photosynthesis
 
 ---
 
 ## Key terms and definitions
+
+- **Aim**: Introduce key terms and definitions that students will come across throughout the session.
+<br>
 
 - **Key Term 1**: Definition
 - **Key Term 2**: Definition
@@ -108,17 +116,18 @@ Base yourself on conceptual change theory and examine exisiting concepts in rela
 
 ## Introduction of submodule topic
 
-- Core theoretical introduction of submodule topic
-- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (REF)
-- Use multiple slides for this part
+- **Aim**: Core theoretical introduction of submodule topic.
+- Pair theoretical aspects with practical exercises and group discussions according to the Think-Pair-Share style and according to Cognitive Load Theory (Sweller, 1980).
+- Use multiple slides for this part.
 
 ::: {.notes}
-For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break)
+For a 90-minute lesson, the instructor should try to "lecture" for only 20 minutes, students should work in groups/pairs/on their own for at least 55 minutes of the lesson (+ a 15 minute break).
 :::
 ---
 
 ## Submodule content slide
 
+- **Aim**: Present relevant content
 - Highlight particularly important aspects with Quarto call-out boxes, for example: 
 
 ::: {.callout-important}
@@ -127,35 +136,41 @@ For a 90-minute lesson, the instructor should try to "lecture" for only 20 minut
 This is an example of a callout box to highlight particularly important information.
 :::
 
+::: {.callout-tip}
+## Tip with Title
+
+This is an example of a callout box to give important tips. 
+:::
+
 ---
 
 ## Pre-break survey
 
-- This pre-break survey serves to examine students' current understanding of key concepts of the submodule
-- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+- **Aim**: This pre-break survey serves to examine students' current understanding of key concepts of the submodule
+- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
 ---
 
-**What is the primary function of photosynthesis?**
+**Which species is the largest type of penguin**?
 
-a. To release oxygen into the atmosphere
+a. Chinstrap Penguin
 
-b. To convert light energy into chemical energy
+b. Emperor Penguin ✅
 
-c. To produce carbon dioxide for the plant
+c. Adélie Penguin
 
-d. To break down glucose for energy
+d. King Penguin
 
 ---
 
-**Which of the following is a key ingredient required for photosynthesis?**
+**What is the key biological feature that helps penguins swim efficiently?**
 
-a. Oxygen
+a. Hollow bones for buoyancy
 
-b. Water
+b. Webbed feet for paddling
 
-c. Nitrogen
+c. Waterproof feathers and flipper-like wings ✅
 
-d. Chlorophyll
+d. Gills to breathe underwater
 
 ---
 
@@ -163,16 +178,17 @@ d. Chlorophyll
 
 ---
 
-## (if needed) Post-break survey discussion
+## Post-break survey discussion
 
+- **Aim**: To clarify concepts and aspects that are not yet understood
 - Highlight specific answers given during the survey
-- Serves to clarify concepts and key terms.
 
 ---
 
 ## Practical exercises on topic
 
-- Depending on the topic, this section of the lesson should consist of hands-on exercises to get familiar with and apply the skill(s) in accordance with the learning goal(s).
+- **Aim**: Design practical exercises for students to apply the new skills in practise.
+- Depending on the topic, the exercises should be in accordance with the learning objective(s).
 
 ::: {.notes}
 For students who advance faster: Prepare extra exercises. 
@@ -182,29 +198,37 @@ For students who advance faster: Prepare extra exercises.
 
 ## Relevance and implications
 
-- In an interactive setting, discuss the relevance of the submodule topic/skills to your students
-- Discuss how it could be applied in practise with specific examples
+- **Aim**: To work out the relevance of the topic to your students.
+- In an interactive setting, discuss how the new skills could be applied in practise with specific examples.
 - Examine downfalls and practical obstacles.
+
+---
+
+## Take-home message
+
+**Aim**: End lesson on clear take-home message that are interactively compiled by students.
 
 ::: {.callout-tip}
 ## Tip with Title
 
-This is an example of a callout with a title for practical tips or take-home messages.
+Add one practical tips or take-home message.
 :::
 
 ---
 
 ## Assignment
 
-- Explain the homework assignment and the rationale behind the homework
-- Examine whether/how it will be assessed, and mention scoring rubrics if applicable
+- **Aim**: Explain the homework assignment and the rationale behind the homework.
+- Examine whether/how it will be assessed
+- Mention scoring rubrics, if applicable
+- Design a peer-review system for assignments to place students in role of reviewer and author
 
 ---
 
 ## To conclude: Survey time!
 
-- This post-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
-- Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
+- **Aim**: This post-submodule survey serves to examine students' current knowledge about the sumodule's topic.
+- Use free survey software such as  or other survey software (particify, formR) to establish the following questions (shown on separate slides):
 
 ---
 
@@ -251,8 +275,8 @@ e. 5
 
 ## Discussion of survey results
 
-- Briefly examine the answers given to each question interactively with the group.
-- Compare pre- and post-survey answers
+- **Aim**: Briefly examine the answers given to each question interactively with the group.
+- Compare and highlight specific differences in answers between pre- and post-survey answers
 
 ---
 
@@ -284,18 +308,35 @@ See you next class :)
 
 ---
 
----
-
 # Formatting elements for instructors
 
-This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
+- **Aim**: This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
 
+---
+
+## Text with example links
+
+- [Quarto Documentation](https://quarto.org/docs/)
+- [Reveal.js Documentation](https://revealjs.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [GitHub](https://github.com/)
+
+---
+
+## Basic text formatting
+
+- **Bold:** `**bold**` → **bold**
+- *Italic:* `*italic*` → *italic*
+- ~~Strikethrough:~~ `~~text~~` → ~~text~~
+- `Inline code:` `` `code` `` → `code`
+- > Blockquote: `> Quote` →  
+  > "This is a quote"
+  
 ---
 
 ## Figure with caption
 
-- Centered image with centered caption below in italics
-
+- Centered image and caption below in italics
 
 <div style="text-align: center;">
   <img src="images/penguin.png" style="width:50%;" />
@@ -351,7 +392,6 @@ This section contains templates for different formatting elements, which can be 
 
 ---
 
-
 ## Stacked figures with text
 
 ```{=html}
@@ -401,6 +441,7 @@ This section contains templates for different formatting elements, which can be 
   </div>
 
 </div>
+
 ---
 
 ## Three-column text slide
@@ -488,3 +529,24 @@ This section contains templates for different formatting elements, which can be 
 
 ```
 ---
+
+## Task list
+- [x] Done
+- [ ] To do
+
+---
+
+## Embedding videos
+
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/q3uXXh1sHcI"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
