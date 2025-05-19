@@ -283,3 +283,208 @@ See you next class :)
 - Other resources (videos etc.)	
 
 ---
+
+---
+
+# Formatting elements for instructors
+
+This section contains templates for different formatting elements, which can be modified and adapted for the instructor's individual purposes. 
+
+---
+
+## Figure with caption
+
+- Centered image with centered caption below in italics
+
+
+<div style="text-align: center;">
+  <img src="images/penguin.png" style="width:50%;" />
+  <div style="font-size: 0.6em; margin-top: 0.5em;"><em>This is a Penguin.</em></div>
+</div>
+
+---
+
+## Figure with bullet points
+
+```{=html}
+
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+
+  <!-- Left side: single image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="images/penguin.png" style="width: 100%;" />
+  </div>
+  
+```
+
+  <!-- Right side: bullet points -->
+  <div style="flex: 1;">
+
+  - First bullet point
+  - Second bullet point
+  - Third bullet point
+
+  </div>
+
+</div>
+
+---
+
+## Side-by-side figures
+
+```{=html}
+<div style="display: flex; justify-content: center; gap: 2em; align-items: flex-start;">
+
+  <div style="text-align: center; width: 45%;">
+    <img src="images/penguin.png" style="width: 100%;" />
+    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 1: Penguin</em></div>
+  </div>
+
+  <div style="text-align: center; width: 45%;">
+    <img src="images/seal.png" style="width: 100%;" />
+    <div style="font-size: 0.9em; margin-top: 0.5em;"><em>Figure 2: Seal</em></div>
+  </div>
+
+</div>
+
+```
+
+---
+
+
+## Stacked figures with text
+
+```{=html}
+
+<div style="display: flex; align-items: flex-start; gap: 0.5em;">
+
+  <!-- Left side: two images stacked vertically -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 0.5em;">
+
+    <img src="images/penguin.png" style="width: 60%;" />
+    <img src="images/seal.png" style="width: 60%;" />
+
+  </div>
+  
+```
+
+  <!-- Right side: bullet points -->
+  <div style="flex: 1;">
+
+  - First bullet point
+  - Second bullet point
+  - Third bullet point
+
+  </div>
+
+</div>
+
+---
+
+## Two-column text slide
+
+<div style="display: flex; gap: 2em;">
+
+  <div style="flex: 1;">
+  **Column 1**
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+  Vivamus lacinia odio vitae vestibulum vestibulum.  
+  Cras venenatis euismod malesuada.
+  </div>
+
+  <div style="flex: 1;">
+  **Column 2**
+
+  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  </div>
+
+</div>
+---
+
+## Three-column text slide
+
+<div style="display: flex; gap: 1em;">
+
+  <div style="flex: 1;">
+  **Column 1**
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+  Vivamus lacinia odio vitae vestibulum vestibulum.
+  </div>
+
+  <div style="flex: 1;">
+  **Column 2**
+
+  Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  </div>
+
+  <div style="flex: 1;">
+  **Column 3**
+
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  </div>
+
+</div>
+
+---
+
+## Simple table
+
+<div style="height: 2cm;"></div>
+
+
+| Column 1   | Column 2   | Column 3   |
+|------------|------------|------------|
+| Row 1 Cell | Row 1 Cell | Row 1 Cell |
+| Row 2 Cell | Row 2 Cell | Row 2 Cell |
+| Row 3 Cell | Row 3 Cell | Row 3 Cell |
+| Row 4 Cell | Row 4 Cell | Row 4 Cell |
+
+---
+
+## Complex table
+
+<div style="height: 2cm;"></div>
+
+```{=html}
+
+<table style="border-collapse: collapse; width: 100%;">
+
+  <thead>
+    <tr style="background-color: #093; color: white; font-weight: bold;">
+      <th style="border: 1px solid #ccc; padding: 8px;">Column 1</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Column 2</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Column 3</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr style="background-color: white; color: black;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 1 Cell</td>
+    </tr>
+    <tr style="background-color: #f0fff0; color: black;"> <!-- very light green -->
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 2 Cell</td>
+    </tr>
+    <tr style="background-color: white; color: black;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 3 Cell</td>
+    </tr>
+    <tr style="background-color: #f0fff0; color: black;">
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">Row 4 Cell</td>
+    </tr>
+  </tbody>
+
+</table>
+
+```
+---

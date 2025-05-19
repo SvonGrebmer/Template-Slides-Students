@@ -124,5 +124,61 @@
     "title": "Title of Submodule",
     "section": "Additional literature for instructors",
     "text": "Additional literature for instructors\n\nReferences for content\nReferences for pedagogical add-on tools\n\nOther resources (videos etc.)"
+  },
+  {
+    "objectID": "index.html#figure-with-caption",
+    "href": "index.html#figure-with-caption",
+    "title": "Title of Submodule",
+    "section": "Figure with caption",
+    "text": "Figure with caption\n\nCentered image with centered caption below in italics\n\n\n\n\nThis is a Penguin."
+  },
+  {
+    "objectID": "index.html#figure-with-bullet-points",
+    "href": "index.html#figure-with-bullet-points",
+    "title": "Title of Submodule",
+    "section": "Figure with bullet points",
+    "text": "Figure with bullet points\n\n\n\n  \n  \n    \n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
+  },
+  {
+    "objectID": "index.html#side-by-side-figures",
+    "href": "index.html#side-by-side-figures",
+    "title": "Title of Submodule",
+    "section": "Side-by-side figures",
+    "text": "Side-by-side figures\n\n\n  \n    \n    Figure 1: Penguin\n  \n\n  \n    \n    Figure 2: Seal"
+  },
+  {
+    "objectID": "index.html#stacked-figures-with-text",
+    "href": "index.html#stacked-figures-with-text",
+    "title": "Title of Submodule",
+    "section": "Stacked figures with text",
+    "text": "Stacked figures with text\n\n\n\n  \n  \n\n    \n    \n\n  \n  \n\n\n\nFirst bullet point\nSecond bullet point\nThird bullet point"
+  },
+  {
+    "objectID": "index.html#two-column-text-slide",
+    "href": "index.html#two-column-text-slide",
+    "title": "Title of Submodule",
+    "section": "Two-column text slide",
+    "text": "Two-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\nCras venenatis euismod malesuada.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  },
+  {
+    "objectID": "index.html#three-column-text-slide",
+    "href": "index.html#three-column-text-slide",
+    "title": "Title of Submodule",
+    "section": "Three-column text slide",
+    "text": "Three-column text slide\n\n\nColumn 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nVivamus lacinia odio vitae vestibulum vestibulum.\n\n\nColumn 2\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\n\nColumn 3\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "objectID": "index.html#simple-table",
+    "href": "index.html#simple-table",
+    "title": "Title of Submodule",
+    "section": "Simple table",
+    "text": "Simple table\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
+  },
+  {
+    "objectID": "index.html#complex-table",
+    "href": "index.html#complex-table",
+    "title": "Title of Submodule",
+    "section": "Complex table",
+    "text": "Complex table\n\n\n\n\n\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nRow 1 Cell\nRow 1 Cell\nRow 1 Cell\n\n\nRow 2 Cell\nRow 2 Cell\nRow 2 Cell\n\n\nRow 3 Cell\nRow 3 Cell\nRow 3 Cell\n\n\nRow 4 Cell\nRow 4 Cell\nRow 4 Cell"
   }
 ]
