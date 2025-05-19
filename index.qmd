@@ -203,7 +203,7 @@ This is an example of a callout with a title for practical tips or take-home mes
 
 ## To conclude: Survey time!
 
-- This pre-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
+- This post-submodule survey serves to examine students' prior knowledge about the sumodule's topic.
 - Use free services such as mentimeter or other survey software (formR, SurveyMonkey) to establish the following questions (shown on separate slides):
 
 ---
