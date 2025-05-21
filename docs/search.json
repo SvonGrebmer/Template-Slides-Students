@@ -215,5 +215,12 @@
     "title": "Title of Submodule",
     "section": "Embedding videos",
     "text": "Embedding videos"
+  },
+  {
+    "objectID": "index.html#code-blocks",
+    "href": "index.html#code-blocks",
+    "title": "Title of Submodule",
+    "section": "Code blocks",
+    "text": "Code blocks\n\n# A basic R code chunk\nx &lt;- 1:10\nmean(x)\n\n[1] 5.5\n\n# A simple plot\nhist(rnorm(100), main = \"Histogram of Random Normals\")"
   }
 ]

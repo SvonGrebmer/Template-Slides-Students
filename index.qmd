@@ -11,6 +11,10 @@ format:
     logo: images/OSC_Logo.jpg  # Inserts logo in the bottom right corner by default
     includes:
       in-header: header.html
+execute:
+  echo: true
+  eval: true
+  engine: knitr
 ---
 
 ## Questions from previous submodule
@@ -547,6 +551,21 @@ See you next class :)
     allowfullscreen>
   </iframe>
 </div>
+
+---
+
+## Code blocks
+
+```{r}
+# A basic R code chunk
+x <- 1:10
+mean(x)
+
+
+# A simple plot
+hist(rnorm(100), main = "Histogram of Random Normals")
+
+```
 
 ---
 
