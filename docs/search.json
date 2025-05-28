@@ -222,5 +222,19 @@
     "title": "Title of Submodule",
     "section": "Code blocks",
     "text": "Code blocks\n\n# A basic R code chunk\nx &lt;- 1:10\nmean(x)\n\n[1] 5.5\n\n# A simple plot\nhist(rnorm(100), main = \"Histogram of Random Normals\")"
+  },
+  {
+    "objectID": "index.html#attribution-and-license-details",
+    "href": "index.html#attribution-and-license-details",
+    "title": "Title of Submodule",
+    "section": "Attribution and license details",
+    "text": "Attribution and license details\n\nThis slide should contain information about the license and attribution details of this current set of slides.\nThe default for the created materials is CC-BY-SA 4.0\n\n= Creative Commons license that allows others to share, adapt, and build upon the original work\nonly if they attribute the creator and also share their new work under the same terms\nallows for both commercial and non-commercial use of the licensed material\n\nComponents of attributions:\n\nTitle\nAuthor\nSource\nLicense"
+  },
+  {
+    "objectID": "index.html#example-attribution-for-previous-slide",
+    "href": "index.html#example-attribution-for-previous-slide",
+    "title": "Title of Submodule",
+    "section": "Example attribution (for previous slide)",
+    "text": "Example attribution (for previous slide)\n“Tutorial template for student track” by Sarah von Grebmer is licensed under CC-BY-SA 4.0."
   }
 ]

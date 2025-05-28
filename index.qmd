@@ -569,3 +569,25 @@ hist(rnorm(100), main = "Histogram of Random Normals")
 
 ---
 
+## Attribution and license details
+
+- This slide should contain information about the license and attribution details of this current set of slides. 
+
+- The default for the created materials is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)
+  - = Creative Commons license that allows others to **share, adapt, and build upon** the original work
+  - **only** if they attribute the creator and also share their new work under the **same terms**
+  - allows for both **commercial and non-commercial** use of the licensed material
+
+- Components of attributions: 
+  - `Title`
+  - `Author`
+  - `Source`
+  - `License`
+
+---
+
+## Example attribution (for previous slide)
+
+"[Tutorial template for student track](https://github.com/SvonGrebmer/Template-Slides-Students)" by Sarah von Grebmer is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
