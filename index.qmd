@@ -88,7 +88,7 @@ Make it clear to the group that there will be a similar post-submodule survey to
 ## Where are we at?
 
 - **Aim**: Place the topic of the current submodule within a broader context.
-- Remind students what you are working towards and what the biggeer picture is.
+- Remind students what you are working towards and what the bigger picture is.
 
 ---
 
